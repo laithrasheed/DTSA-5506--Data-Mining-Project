@@ -1,2 +1,2 @@
 # DTSA-5507--Data-Mining-Project
-The notebook I used to comapre GRU againist CNN for a Time Series Problem about Traffic Jam Prediction
+This repository contains a notebook where I compared the performance of Gated Recurrent Units (GRU) against Convolutional Neural Networks (CNN) for a time series problem related to traffic jam prediction.
